@@ -38,7 +38,7 @@ top: .5rem;
 left: .5rem;
 }
 &:hover, &:focus-within {
- border: 1px solid var(--stroke-hightlight);
+ border: 1px solid var(--stroke-highlight);
 
 & .radio-image {
  background-image: url(../../assets/ícons/raio-hover.svg);
@@ -46,7 +46,7 @@ left: .5rem;
 }
 
 &:has(:checked) {
-  border: 2px solid var(--stroke-hightlight);
+  border: 2px solid var(--stroke-highlight);
   
 & .radio-image {
   background-image: url(../../assets/ícons/radio-checked.svg)
