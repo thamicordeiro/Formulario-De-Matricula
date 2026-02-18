@@ -1,5 +1,4 @@
 
-
 # 📝 Formulário de Matrícula
 
 ## 📌 Sobre o projeto  
@@ -33,17 +32,14 @@ O foco foi trabalhar validações básicas, organização de campos e uma interf
 
 ---
 
-## 🎯 Próximos passos  
-- Adicionar validação com JavaScript  
-- Melhorar acessibilidade  
-- Criar feedback visual para erros  
-- Evoluir o design  
-
----
 
 ## 🚀 Preview  
 <img width="1634" height="890" alt="image" src="https://github.com/user-attachments/assets/54bf2ada-5dcb-400c-afda-b856fdf86f57" />
 
+
+ 
+## 📎 Acesse o projeto   
+👉 [link-do-projeto-aqui](https://thamicordeiro.github.io/enrollment-form/) 
 ---
 
 ## 📎 Acesse o projeto  
